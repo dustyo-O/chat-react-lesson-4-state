@@ -1,0 +1,3 @@
+.PeopleList-Item:not(:first-child) {
+   margin-top: 6px;
+}
